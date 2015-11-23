@@ -35,7 +35,7 @@ http://community.nvda-project.org/wiki/ExtraVoices.
 
 Most of the time, both NVDA and JAWS share a lot of the same terminology to describe controls e.g. radio buttons, combo boxes, check boxes etc.
 
-One notable difference is that NVDA differentiates between single and multi-line edit fields, and will also tell you if a field is "protected" (anything you type wil be replaced by asterisks).  It will also alert you if text is selected in a field when you tab over to it.  If so, typing will replace the highlighted text.
+One notable difference is that NVDA differentiates between single and multi-line edit fields, and will also tell you if a field is "protected" (anything you type will be replaced by asterisks).  It will also alert you if text is selected in a field when you tab over to it.  If so, typing will replace the highlighted text.
 
 NVDA  refers to the different languages a speech synthesizer can speak as voices, and the different voices  supported by your synthesizer as variants.
 
