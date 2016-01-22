@@ -27,6 +27,7 @@ The web resources mentioned in the following list are published independently; t
  * Arabic: http://www.arabic-nvda.org (http://ar.nvda-community.org)
  * Czech/Slovak Blog: http://nvda-project.cz
  * Dutch: http://nvdaschermlezer.forummaken.nl
+ * Dutch Email List: to subscribe, send a blank email to nvdadutch+subscribe@groups.io end reply to the received message.
  * Finnish: http://groups.yahoo.com/group/nvda-finland
  * French: http://www.nvda-fr.org
  * German Email List: to subscribe, send a blank email to nvda-german-subscribe@ml4free.de with "subscribe" in the subject line.
