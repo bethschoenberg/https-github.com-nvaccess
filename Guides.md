@@ -1,6 +1,6 @@
 # NVDA Guides
 
-This page provides guides for using NVDA contributed by the community. The [/documentation/userGuide.html NVDA User Guide] (also accessible from within NVDA itself via the Help sub-menu in the NVDA menu) is the primary, official documentation for NVDA.
+This page provides guides for using NVDA contributed by the community. The [NVDA User Guide](http://www.nvaccess.org/files/nvda/documentation/userGuide.html) (also accessible from within NVDA itself via the Help sub-menu in the NVDA menu) is the primary, official documentation for NVDA.
 
 Articles specific to development can be found on the [/wiki/Development development page].
 
