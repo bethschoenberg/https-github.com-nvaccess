@@ -9,13 +9,12 @@ It is the channel that has been set up for discussions of all issues related to 
 
 ## Other Community Sites, Blogs and Email Lists
 
-### English users' mailing List
+### International users' mailing List (English)
 
 To join the users' list, send a blank email to: 
-nvda-request@freelists.org with the word "subscribe" in the subject line.
+nvda+subscribe@groups.io.
 
-You can also view 
-[archived messages](http://www.freelists.org/archives/nvda/) of the users' email list.
+You can also visit [the homepage](http://groups.io/g/nvda) of the users' email list where you can subscribe, search and read list archives.
 
 ### Resources for specific languages
 Since the creation of NVDA, the community has created a number of independent websites, blogs and mailing lists to discuss all issues related to NVDA in their native languages. The following list shows those web resources in alphabetical order.
