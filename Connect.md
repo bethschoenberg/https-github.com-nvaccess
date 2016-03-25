@@ -46,4 +46,7 @@ The web resources mentioned in the following list are published independently; t
  * Turkish mailing list: http://groups.yahoo.com/group/nvda_tr
 
 NVDA-CHINESE station
-<a href="http://www.nvdacn.com">access NVDAcn station</a>
+
+NVDA create Chinese station Share is committed to creating the most professional Chinese mainland websites
+
+http://www.nvdacn.com
