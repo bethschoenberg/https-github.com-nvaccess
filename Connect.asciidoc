@@ -44,3 +44,6 @@ The web resources mentioned in the following list are published independently; t
  * Spanish mailing list: To subscribe, send a blank e-mail to nvdaespanol-subscribe@yahoogroups.com
  * Swedish mailing list: To subscribe send a blank email to nvda-request@smartlist.nu putting subscribe in the subject line.
  * Turkish mailing list: http://groups.yahoo.com/group/nvda_tr
+
+NVDA-CHINESE station
+<a href="http://www.nvdacn.com">access NVDAcn station</a>
