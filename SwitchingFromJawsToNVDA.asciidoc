@@ -18,6 +18,15 @@ With that said, you'll find that - in most daily situations, NVDA works just as 
 
 Selecting the laptop keyboard layout does not automatically set the CapsLock key to act as the NVDA modifier key.  However, a check box is provided next to the Keyboard Layout combo box to toggle this setting.
 
+## Note On The Insert Key.
+
+As  you may be aware, both JAWS and NVDA can use the insert key for it's modifier key. Both screen readers treat it slightly differently, which could lead to some confusion if you are used to one or the other.
+
+With JAWS loaded, the insert key is solely for it's use. This means that, in order to use the original function assigned to it (such as switching between insert and overwrite modes in a text editor or word processor), you first have to activate JAWS's pass key through command.
+
+NVDA on the other hand allows you to carry out the insert key's original function by pressing it twice quickly.
+Keep this in mind the next time you're editing text while using NVDA and find yourself erasing what you've already written by typing over it.
+
 ## Eloquence
 
 One of the most asked questions concerns the use of the Eloquence synthesizer with NVDA. Until recently, it was illegal to do so, as explained by a developer: http://community.nvda-project.org/blog/NVDAAndEloquenceSituation.
