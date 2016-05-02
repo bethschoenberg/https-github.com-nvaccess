@@ -56,6 +56,7 @@ In JAWS 15 or later, you can use numpad keys to navigate apps using a tree-like 
 ## Virtual Cursor
 
 The virtual cursor in NVDA is known as browse mode. It functions in much the same way as JAWS, giving you access to navigation quick keys, or in NVDA speak, single letter navigation.
+Following are some common issues you may encounter when browsing the web with NVDA for the first time, and how to address them.
 
 ### Why Is Everything On One Line?
 
