@@ -23,7 +23,6 @@ Note:
 
 The web resources mentioned in the following list are published independently; that's to say, they are written entirely by NVDA community around the world and thus the information/opinions expressed may not be the same as that held by the NVDA project team.
 
- * Arabic: http://www.arabic-nvda.org (http://ar.nvda-community.org)
  * Czech/Slovak Blog: http://nvda-project.cz
  * Dutch: http://nvdadutch.wordpress.com
  * Dutch Email List: to subscribe, send a blank email to nvdadutch+subscribe@groups.io end reply to the received message.
@@ -37,9 +36,8 @@ The web resources mentioned in the following list are published independently; t
  * Japanese mailing list: Send a blank message to nvda-japanese-users+subscribe@googlegroups.com with subscribe as the subject line.
  * Korean users forum on Facebook: https://www.facebook.com/groups/nvdakr
  * Korean website: http://www.nvda-kr.org/
- * Polish: http://www.nvda.pl (http://pl.nvda-community.org)
+ * Polish: http://www.nvda.pl
  * Portuguese mailing list: to subscribe, send a blank email to nvdaemportugues+subscribe@googlegroups.com. Note that this list was formerly on yahoogroups.
- * Portuguese website: http://pt.nvda-community.org
  * Russian mailing list: To subscribe, send blank e-mail to nvda-rus-subscribe@tiflo.info end reply to the received message.
  * Spanish mailing list: To subscribe, send a blank e-mail to nvdaespanol-subscribe@yahoogroups.com
  * Swedish mailing list: To subscribe send a blank email to nvda-request@smartlist.nu putting subscribe in the subject line.
