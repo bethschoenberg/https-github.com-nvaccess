@@ -43,7 +43,7 @@ If you would like to learn NVDA's internals, it is important to have NVDA source
 
 ### Building NVDA
 
-There are times when you would like to see NVDA in action. To help you with this and in case you'd like to test a new feature idea, you should build NVDA from source. Source code compilation steps are managed by SCons, and details on how to build NVDA from source can be found in readme.txt found in the root directory of the NVDA source code.
+There are times when you would like to see NVDA in action. To help you with this and in case you'd like to test a new feature idea, you should build NVDA from source. Source code compilation steps are managed by SCons, and details on how to build NVDA from source can be found in readme.md found in the root directory of the NVDA source code.
 
 ## NVDA components and source code layout
 
@@ -63,7 +63,7 @@ The source code package comprises following folders and files:
 - site_scons: Other packages built by SCons are stored here.
 - source: This is where Python portion of NVDA lives. We'll talk about contents of this directory throughout this article.
 - uninstaller: Routines used by NVDA's uninstaller is stored here.
-- user_docs: Documentation files ofr NVDA are stored in this folder.
+- user_docs: Documentation files for NVDA are stored in this folder.
 
 ### NVDA components overview
 
