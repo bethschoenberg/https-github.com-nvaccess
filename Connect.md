@@ -24,8 +24,8 @@ Note:
 The web resources mentioned in the following list are published independently; that's to say, they are written entirely by NVDA community around the world and thus the information/opinions expressed may not be the same as that held by the NVDA project team.
 
  * Czech/Slovak Blog: http://nvda-project.cz
- * Dutch: http://nvdadutch.wordpress.com
- * Dutch Email List: to subscribe, send a blank email to nvdadutch+subscribe@groups.io end reply to the received message.
+ * Dutch: http://www.nvda-nl.ml
+ * Dutch Email List: to subscribe, send a blank email to nvdadutch+subscribe@groups.io and reply to the received message.
  * Finnish: http://groups.yahoo.com/group/nvda-finland
  * French: http://www.nvda-fr.org
  * German Email List: to subscribe, send a blank email to nvda-german-subscribe@ml4free.de with "subscribe" in the subject line.
