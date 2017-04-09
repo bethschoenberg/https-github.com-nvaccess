@@ -38,6 +38,7 @@ The web resources mentioned in the following list are published independently; t
  * Korean website: http://www.nvda-kr.org/
  * Polish: http://www.nvda.pl
  * Portuguese mailing list: to subscribe, send a blank email to nvdaemportugues+subscribe@googlegroups.com. Note that this list was formerly on yahoogroups.
+ * Romanian website: http://www.ro-nvda.tk
  * Romanian mayling list: To subscribe, send an e-mail to NVDA-romanian-comunity+subscribe@googlegroups.com or you can access the link https://groups.google.com/forum/#!forum/nvda-romanian-comunity to subscribe via web.
  * Russian mailing list: To subscribe, send blank e-mail to nvda-rus-subscribe@tiflo.info end reply to the received message.
  * Spanish mailing list: To subscribe, send a blank e-mail to nvdaespanol-subscribe@yahoogroups.com
