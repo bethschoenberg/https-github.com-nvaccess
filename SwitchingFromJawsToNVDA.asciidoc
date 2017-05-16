@@ -54,7 +54,7 @@ NVDA has various cursors to aid in navigating Windows and applications, similar 
 
 The PC cursor in NVDA's documentation is referred to as the system focus and system caret.
 
-The equivalent to the JAWS cursor is a combination of object navigation, the review cursor and Screen Review.  The Screen Review function is the one perhaps most similar to the JAWS cursor, however it is beneficial to become familiar with all 3.  You will find thorough, easy to understand instructions for these in the user guide.
+The equivalent to the JAWS cursor is a combination of object navigation, the review cursor and the various review modes; such as  Document review, object review and Screen Review. The Screen Review function is the one perhaps most similar to the JAWS cursor, however it is beneficial to become familiar with all of these. You will find thorough, easy to understand instructions in the user guide.
 
 Unlike JAWS, you don't have to switch between the PC and JAWS cursor equivalents as the numpad is reserved exclusively for working with the JAWS cursor like functions.
 
@@ -70,7 +70,7 @@ Following are some common issues you may encounter when browsing the web with NV
 
 ### Why Is Everything On One Line?
 
-In case you are unaware, JAWS has two modes for displaying webpages or other documents using the virtual cursor, simple layout and screen layout.  Simple layout is the default, which displays content in a linear fashion - putting each link or control on its own line.  Screen layout formats the content similar to how it's displayed on screen.
+In case you are unaware, JAWS has two modes for displaying webpages or other documents using the virtual cursor; simple layout and screen layout.  Simple layout is the default, which displays content in a linear fashion - putting each link or control on its own line.  Screen layout formats the content similar to how it's displayed on screen.
 
 The default in NVDA is screen layout, but you can easily switch to its version of simple layout by pressing NVDA+V while in browse mode. This will turn Screen layout off. Be sure to save your configuration after making this change with NVDA+CTRL+c.
 
@@ -104,7 +104,7 @@ Sometimes you may find that NVDA can seem overly verbose, particularly in some l
 
 To turn that option off, uncheck "Report table row/column headers" in the "Document Formatting" dialogue.
 
-## Solving unexpected Speech Dictionary behavior.
+## Solving unexpected Speech Dictionary behaviour.
 
 NVDA has always included a function to edit "Speech Dictionaries", which are similar to JAWS' dictionary manager files.  However, until recently, the result of adding a word to them might not be what you had expected.
 If you added a word you wanted to change the pronunciation of to a dictionary , such as "mono", any word that started with or included the word mono would be affected.  Whereas in JAWS, only the text entered into the "actual word" field would be affected, unless you appended an asterisk (*). So as in this example, mono would be seen as a route word.
