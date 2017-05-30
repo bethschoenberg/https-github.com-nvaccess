@@ -31,6 +31,10 @@ Yes there is a Getting Started Guide attached to this page which is an edited ve
 ### Are there additional tutorials for new NVDA users?
 Yes. Some users produced text and audio tutorials for new NVDA users.
 
+Accessibility Central has a wide array of text and audio tutorials for NVDA.
+
+The American Foundation for the blind offers a video tutorial series that talks about using NVDA and Google Drive. These are fully narrated videos with text transcripts and activities and can be downloaded in Mp3 format as well.
+
 ## Windows versions and features
 
 ### Which version of Windows does NVDA support?
