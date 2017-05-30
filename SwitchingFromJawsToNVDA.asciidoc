@@ -1,4 +1,4 @@
-# Switching From JAWS To NVDA
+F# Switching From JAWS To NVDA
 
 ## Introduction
 
@@ -57,6 +57,10 @@ The PC cursor in NVDA's documentation is referred to as the system focus and sys
 The equivalent to the JAWS cursor is a combination of object navigation, the review cursor and the various review modes; such as  Document review, object review and Screen Review. The Screen Review function is the one perhaps most similar to the JAWS cursor, however it is beneficial to become familiar with all of these. You will find thorough, easy to understand instructions in the user guide.
 
 Unlike JAWS, you don't have to switch between the PC and JAWS cursor equivalents as the numpad is reserved exclusively for working with the JAWS cursor like functions.
+
+It is worth noting that when you use object navigation or the review cursor, the mouse does not move in sync. You have to press a command to move the mouse to the location of the review cursor, which is similar to how JAWS' "invisible cursor" works. There are also commands to simulate clicking or locking both mouse buttons.
+
+However, if you simply want to activate the current object you are focused on when using object navigation, there is a command to do this without having to move the mouse cursor to it first.
 
 ### Touch cursor
 
