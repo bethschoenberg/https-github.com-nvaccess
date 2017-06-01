@@ -46,7 +46,8 @@ NVDA supports the following Windows operating systems:
 * Windows Vista (all editions).
 * Windows 7 (all editions).
 * Windows 8 and 8.1 (all editions except RT).
-* Windows Server 2003/2008/2008 R2/2012/2012 R2.
+* Windows 10 (all editions except S and Mobile).
+* Windows Server 2003/2008/2008 R2/2012/2012 R2/2016.
 
 ### Does NVDA support 64-bit Windows?
 Yes. NVDA supports both 32-bit and 64-bit editions of Windows.
