@@ -1,4 +1,4 @@
-F# Switching From JAWS To NVDA
+# Switching From JAWS To NVDA
 
 ## Introduction
 
