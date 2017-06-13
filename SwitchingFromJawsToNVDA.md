@@ -151,4 +151,4 @@ Here are the steps.
 2. Create a new profile by tabbing to the *new* button or press alt, N.
 3. After you name your profile, tab to the profile usage radio butttons. arrow down untill you hear say all. Hit *OK* 
 
-while  this profile is active, you need to complete the process by configuring the synthesizer. Be sure to do this while the say all profile is active.
+while  this profile is active, you need to complete the process by configuring the synthesizer while the say all profile is active.
