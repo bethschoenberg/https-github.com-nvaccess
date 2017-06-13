@@ -29,16 +29,17 @@ Keep this in mind the next time you're editing text while using NVDA and find yo
 
 ## Eloquence
 
-One of the most asked questions concerns the use of the Eloquence synthesizer with NVDA. Until recently, it was illegal to do so, as explained by a developer: http://community.nvda-project.org/blog/NVDAAndEloquenceSituation.
+One of the most asked questions concerns the use of the Eloquence synthesizer with NVDA. Until recently, [it was illegal to do so, as explained by a developer.](http://community.nvda-project.org/blog/NVDAAndEloquenceSituation)
 
-However, Code Factory has released a version of eloquence as an NVDA add-on which can be purchased from http://codefactoryglobal.com/app-store/voices-for-nvda/.
+However, Code Factory has released [a version of eloquence as an NVDA add-on which can be purchased from this link.](http://codefactoryglobal.com/app-store/voices-for-nvda/)
 
 A license to use Nuance's Vocalizer synthesizer is also included in the price.
 
 See the section entitled "Scripts" for information about NVDA add-ons.
 
-eSpeak is not the only synthesizer supported. The following link is to a page detailing where to get extra voices.
-http://community.nvda-project.org/wiki/ExtraVoices.
+NVDA has other voices as well. [This page holds a list of free and paid options to get other voices.](http://community.nvda-project.org/wiki/ExtraVoices)
+
+[you can also see the community wiki for even more voice options.](http://community.nvda-project.org/wiki/ExtraVoices)
 
 ## Terminology
 
@@ -136,8 +137,18 @@ In 2015, Christopher Toth and Tyler Spivey released a free add-on to allow NVDA 
 
 ## Application-specific settings
 
-Until recently, NVDA's settings were global (applied everywhere). Starting with NVDA 2013.3, it is possible to configure certain settings to be applied when using a program. This is done by creating an app-specific configuration profile. To create an app-specific profile, open the Configuration Profiles dialogue while using the app in question. When the dialogue opens (NVDA menu/Configuration Profiles), select New, and select "current application" when asked when to use this profile.
+Until recently, NVDA's settings were global (applied everywhere). Starting with NVDA 2013.3, it is possible to configure certain settings to be applied when using a program. This is done by creating an app-specific configuration profile. To create an app-specific profile, open the Configuration Profiles dialogue while using the app in question. To open the dialogue, hit NVDA, N, to bring up the NVDA menu. arrow down until you hear configuration profiles.  
+
+When the dialogue opens, select New, and select "current application" when asked when to use this profile.
 
 ### Alternate say all
 
-In recent versions of JAWS, you can configure a different speech synthesizer to be used when say all is active. You can do this in NVDA by creating a say all profile and configuring the synthesizer while say all profile is active.
+In recent versions of JAWS, you can configure a different speech synthesizer to be used when say all is active. You can do this in NVDA by creating a say all profile in the configuration profiles menu.
+
+Here are the steps.
+
+1. Open the configurations profile from the main NVDA menu. Press NVDA, N, then arrow down to configuration profiles.
+2. Create a new profile by tabbing to the *new* button or press alt, N.
+3. After you name your profile, tab to the profile usage radio butttons. arrow down untill you hear say all. Hit *OK* 
+
+while  this profile is active, you need to complete the process by configuring the synthesizer. Be sure to do this while the say all profile is active.
