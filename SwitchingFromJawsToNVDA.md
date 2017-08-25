@@ -27,7 +27,13 @@ With JAWS loaded, the insert key is solely for it's use. This means that, in ord
 NVDA on the other hand allows you to carry out the insert key's original function by pressing it twice quickly.
 Keep this in mind the next time you're editing text while using NVDA and find yourself erasing what you've already written by typing over it.
 
-## Eloquence
+## Alternatives to eSpeak
+
+eSpeak NG is the speech synthesizer that is included with NVDA. Like NVDA itself, it is also free and open source, which is one of the reasons for it's inclusion. Another being the shear amount of languages it can speak.
+
+However, you may find that, for whatever reason, it is not for you. If this is the case you will be glad to know that there are alternatives, which will be discussed in the following sections.
+
+### Eloquence
 
 One of the most asked questions concerns the use of the Eloquence synthesizer with NVDA. Until recently, [it was illegal to do so, as explained by a developer.](http://community.nvda-project.org/blog/NVDAAndEloquenceSituation)
 
@@ -37,9 +43,20 @@ A license to use Nuance's Vocalizer synthesizer is also included in the price.
 
 See the section entitled "Scripts" for information about NVDA add-ons.
 
-NVDA has other voices as well. [This page holds a list of free and paid options to get other voices.](http://community.nvda-project.org/wiki/ExtraVoices)
+### Windows OneCore voices
 
-[you can also see the community wiki for even more voice options.](http://community.nvda-project.org/wiki/ExtraVoices)
+If you are on Windows 10 and are running NVDA version 2017.3 or later, you have yet another alternative in the shape of Windows OneCore voices. These voices are developed by Microsoft and are included free of charge with windows 10.
+
+There are quite a few available in various languages and dialects; some of which will already be installed. However, these will vary depending on the language packs you have on your system. The only way at present to get new voices is to install other language packs in Settings. Once done, you can then download the voices for that language. At which point, you can remove the language pack. This will not effect the voices you have just installed.
+hopefully this will be made more simpler in the future.
+
+If you find that Windows OneCore voices do not speak fast enough, even when NVDA's speech rate is at it's highest, adjust the speech rate in windows settings as well.
+
+Their slight complications aside, these voices offer a viable alternative to eSpeak NG as they are responsive and quite natural sounding.
+
+### Even more voices
+
+If you still cannot find the perfect voice for you, [This page lists several other speech synthesizers (both free and paid you can use instead.](http://community.nvda-project.org/wiki/ExtraVoices)
 
 ## Terminology
 
