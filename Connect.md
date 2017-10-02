@@ -29,6 +29,7 @@ The web resources mentioned in the following list are published independently; t
  * Dutch Email List: to subscribe, send a blank email to nvdadutch+subscribe@groups.io and reply to the received message.
  * Finnish: http://groups.yahoo.com/group/nvda-finland
  * French: http://www.nvda-fr.org
+ * German: https://www.facebook.com/groups/1899444343635975/?fref=nf
  * German Email List: to subscribe, send a blank email to nvda-german-subscribe@ml4free.de with "subscribe" in the subject line.
  * Hungarian: http://www.nvda.hu
  * Hungarian Email List: http://nvda.hu/mailman/listinfo/lista_nvda.hu
