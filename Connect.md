@@ -23,6 +23,8 @@ Note:
 
 The web resources mentioned in the following list are published independently; that's to say, they are written entirely by NVDA community around the world and thus the information/opinions expressed may not be the same as that held by the NVDA project team.
 
+ * Arabic website: https://www.nvda-ar.org
+* Arabic discussion list: https://groups.io/g/nvda-ar
  * Czech/Slovak Blog: http://nvda-project.cz
  * Danish NVDA-usergroup:(NVDA-brugergruppen): https://nvda-brugergruppen.dk (wiki: https://www.nvda-brugergruppen.dk/mediawiki/index.php/Forside)
  * Dutch: https://nvda-nl.cloudaccess.host
