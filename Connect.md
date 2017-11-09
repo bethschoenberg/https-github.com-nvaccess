@@ -45,6 +45,8 @@ The web resources mentioned in the following list are published independently; t
  * Romanian website: http://www.ro-nvda.tk
  * Romanian mayling list: To subscribe, send an e-mail to NVDA-romanian-comunity+subscribe@googlegroups.com or you can access the link https://groups.google.com/forum/#!forum/nvda-romanian-comunity to subscribe via web.
  * Russian mailing list: To subscribe, send blank e-mail to nvda-rus-subscribe@tiflo.info end reply to the received message.
+ * Spanish website: https://nvda.es
+ * Spanish Github website: https://nvdaes.github.io
  * Spanish mailing list: To subscribe, send a blank e-mail to nvdaespanol-subscribe@yahoogroups.com
  * Swedish mailing list: To subscribe send a blank email to nvda-request@smartlist.nu putting subscribe in the subject line.
  * Turkish mailing list: http://groups.yahoo.com/group/nvda_tr
