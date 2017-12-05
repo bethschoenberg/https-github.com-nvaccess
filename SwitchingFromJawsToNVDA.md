@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The purpose of this guide is to assist users of JAWS (Job Access With Speech), a commercial screen reader by Freedom Scientific to switch to the open source screen reader NVDA (NonVisual Desktop Access) with ease. It assumes prior knowledge of JAWS and that you are proficient in it's use.
+The purpose of this guide is to assist users of JAWS (Job Access With Speech), a commercial screen reader by Freedom Scientific to switch to the open source screen reader NVDA (NonVisual Desktop Access) with ease. It assumes prior knowledge of JAWS and that you are proficient in its use.
 
 It is not intended to be a replacement  of the included user guide, rather as a means to make NVDA seem less daunting.
 
@@ -20,16 +20,16 @@ Selecting the laptop keyboard layout does not automatically set the CapsLock key
 
 ## Note On The Insert Key.
 
-As  you may be aware, both JAWS and NVDA can use the insert key for it's modifier key. Both screen readers treat it slightly differently, which could lead to some confusion if you are used to one or the other.
+As  you may be aware, both JAWS and NVDA can use the insert key for its modifier key. Both screen readers treat it slightly differently, which could lead to some confusion if you are used to one or the other.
 
-With JAWS loaded, the insert key is solely for it's use. This means that, in order to use the original function assigned to it (such as switching between insert and overwrite modes in a text editor or word processor), you first have to activate JAWS's pass key through command.
+With JAWS loaded, the insert key is solely for its use. This means that, in order to use the original function assigned to it (such as switching between insert and overwrite modes in a text editor or word processor), you first have to activate JAWS's pass key through command.
 
 NVDA on the other hand allows you to carry out the insert key's original function by pressing it twice quickly.
 Keep this in mind the next time you're editing text while using NVDA and find yourself erasing what you've already written by typing over it.
 
 ## Alternatives to eSpeak
 
-eSpeak NG is the speech synthesizer that is included with NVDA. Like NVDA itself, it is also free and open source, which is one of the reasons for it's inclusion. Another being the shear amount of languages it can speak.
+eSpeak NG is the speech synthesizer that is included with NVDA. Like NVDA itself, it is also free and open source, which is one of the reasons for its inclusion. Another being the shear amount of languages it can speak.
 
 However, you may find that, for whatever reason, it is not for you. If this is the case you will be glad to know that there are alternatives, which will be discussed in the following sections.
 
@@ -50,7 +50,7 @@ If you are on Windows 10 and are running NVDA version 2017.3 or later, you have 
 There are quite a few available in various languages and dialects; some of which will already be installed. However, these will vary depending on the language packs you have on your system. The only way at present to get new voices is to install other language packs in Settings. Once done, you can then download the voices for that language. At which point, you can remove the language pack. This will not effect the voices you have just installed.
 hopefully this will be made more simpler in the future.
 
-If you find that Windows OneCore voices do not speak fast enough, even when NVDA's speech rate is at it's highest, adjust the speech rate in windows settings as well.
+If you find that Windows OneCore voices do not speak fast enough, even when NVDA's speech rate is at its highest, adjust the speech rate in windows settings as well.
 
 Their slight complications aside, these voices offer a viable alternative to eSpeak NG as they are responsive and quite natural sounding.
 
